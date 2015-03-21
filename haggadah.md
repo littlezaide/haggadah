@@ -1,7 +1,7 @@
 # Seder
 
-Kadesh: the recitation of Kiddush.
-Urchatz: washing the hands.
+1. Kadesh: the recitation of Kiddush.
+2. Urchatz: washing the hands.
 Karpas: eating a vegetable dipped in salt-water.
 Yachatz: breaking of the middle matzo.
 Maggid: the recitation of the Hagadah.
