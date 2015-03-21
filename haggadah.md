@@ -79,7 +79,7 @@ Praised art Thou, O Lord our God, King of the universe, who hast chosen us from 
 
 All read in unison:
 
-Baruch attah adonoi elohenu melech ha‘olam bor-ay p’ri ha'gafen.
+*Baruch attah adonoi elohenu melech ha‘olam bor-ay p’ri ha'gafen.*
 
 Praised art Thou, O Lord our God, Ruler of the world, who hast created the fruit of the vine.
 
@@ -89,7 +89,7 @@ Drink the first cup of wine.
 
 Some parsley, lettuce or watercress is distributed to all present who dip it in salt water or in vinegar, and before partaking of it say in unison:
 
-Baruch atto adonai elohenu melech ha‘olom bor-ay p’ri ha’adomo.
+*Baruch atto adonai elohenu melech ha‘olom bor-ay p’ri ha’adomo.*
 
 Praised art Thou, O Lord our God, King of the universe, Creator of the fruit of the earth.
 
@@ -150,9 +150,9 @@ Therefore He commanded us to observe the Passover in its season, from year to ye
 
 All read in unison:
 
-Who is like unto Thee, O Lord, among the mighty?
-  Who is like unto Thee, glorious in holiness,
-  Fearful in praises, doing wonders?
+Who is like unto Thee, O Lord, among the mighty?  
+  Who is like unto Thee, glorious in holiness,  
+  Fearful in praises, doing wonders?  
 The Lord shall reign for ever and ever.
 
 ## Dayenu ##
@@ -196,7 +196,7 @@ Should enemies again assail us, the remembrance of the exodus of our fathers fro
 
 Therefore, Rabban Gamaliel, a noted sage, declared: "Whoever does not well consider the meaning of these three symbols: Pesaḥ, Matzah and Moror, has not truly celebrated this Festival".
 
-PESAKH
+### PESAKH ###
 
 One of the company asks:
 
@@ -206,7 +206,7 @@ The leader lifts up the roasted shank-bone and answers:
 
 Pesakh means the Paschal Lamb, and is symbolized by this shank-bone. It was eaten by our fathers while the Temple was in existence, as a memorial of God's favors, as it is said: "It is the sacrifice of the Lord's Passover, for that He passed over the houses of the children of Israel in Egypt, when He smote the Egyptians and delivered our houses". As God in the ancient "Watch-Night" passed over and spared the houses of Israel, so did He save us in all kinds of distress, and so may He always shield the afflicted, and for ever remove every trace of bondage from among the children of man.
 
-MATZah
+### MATZah ###
 
 One of the company asks:
 
@@ -232,11 +232,9 @@ IN EVERY generation, each Jew should regard himself as though he too were brough
 
 Because God, "the Guardian of Israel, who sleepeth not nor slumbereth" revealed Himself on that Watch-night in Egypt and in all dark periods of our past, as the Redeemer of the enslaved, we keep this as a Watch-night for all the Children of Israel, dedicated to God our redeemer.
 
-p. 39 p. 40
-
 While enjoying the liberty of this land, let us strive to make secure also our spiritual freedom, that, as the delivered, we may become the deliverer, carrying out Israel's historic task of being the messenger of religion unto all mankind.
 
-All read in unison:
+**All read in unison:**
 
 So it is our duty to thank, praise and glorify God, who brought us and our forefathers from slavery unto freedom, from sorrow unto joy, from mourning unto festive gladness, from darkness unto light. Let us therefore proclaim His praise.
 
@@ -348,22 +346,21 @@ The cups are filled for the second time.
 
 All read in unison:
 
-BORUCH ATTO ADONOI ELOHENU MELECH HO‘OLOM BORE P’RI HAGGOFEN.
+*BORUCH ATTO ADONOI ELOHENU MELECH HO‘OLOM BORE P’RI HAGGOFEN.*
 
 Praised art Thou, O Lord our God, King of the universe, who hast created the fruit of the vine.
 
 Drink the second cup of wine.
 
-p. 49 p. 50
 5. ‏מוֹצִיא, מַצָּה‎
 
 The upper Matzah is broken and distributed. All then read in unison:
 
-BORUCH ATTO ADONOI ELOHENU MELECH HO‘OLOM HAMOTZI LEḤEM MIN HO’ORETZ.
+*BORUCH ATTO ADONOI ELOHENU MELECH HO‘OLOM HAMOTZI LEḤEM MIN HO’ORETZ.*
 
 Praised art Thou, O Lord our God, King of the universe, who bringest forth bread from the earth.
 
-BORUCH ATTO ADONOI ELOHENU MELECH HO‘OLOM ASHER KIDD’SHONU B’MITZVOSOV V’TZIVONU AL ACHILAS MATZO.
+*BORUCH ATTO ADONOI ELOHENU MELECH HO‘OLOM ASHER KIDD’SHONU B’MITZVOSOV V’TZIVONU AL ACHILAS MATZO.*
 
 Praised art Thou, O Lord our God, King of the universe, who hast sanctified us through Thy commandments, and ordained that we should eat unleavened bread.
 
@@ -382,11 +379,10 @@ Praised art Thou, O Lord our God, King of the universe, who hast sanctified us b
 
 Eat the Moror.
 
-p. 51 p. 52
-
 7. ‏שֻׁלְחָן עוֹרֵךְ‎
 
 SUPPER IS SERVED.
+
 8. ‏צָפוּן‎
 
 Partake of the Aphikomon.
@@ -429,11 +425,7 @@ Praised art Thou, O Lord, who givest food unto all.
 
 All read in unison:
 
-O God, our Father, sustain and protect us and grant us strength to bear our burdens. Let us not, O God, become dependent upon men, but let us rather depend
-
-p. 57 p. 58
-
-upon Thy hand, which is ever open and gracious, so that we may never be put to shame.
+O God, our Father, sustain and protect us and grant us strength to bear our burdens. Let us not, O God, become dependent upon men, but let us rather depend upon Thy hand, which is ever open and gracious, so that we may never be put to shame.
 
 Leader:
 
@@ -469,8 +461,6 @@ The All-merciful! May He bless this household and all assembled here. May we all
 
 Company: amen
 
-p. 59 p. 60
-
 Leader:
 
 Fear ye the Lord, ye His holy ones, for there is no want to them that fear Him.
@@ -505,7 +495,6 @@ Blessed art Thou, O Lord our God, King of the universe, who createst the fruit o
 
 Drink the third cup of wine.
 
-p. 61 p. 62
 
 10. ‏הַלֵּל‎
 
@@ -565,8 +554,6 @@ Company:
 
 For His mercy endureth for ever.
 
-p. 63 p. 64
-
 Leader:
 
 OUT OF distress I called upon the Lord; He answered me with great enlargement.
@@ -590,10 +577,6 @@ The Lord is my strength and song; and He is become my salvation.
 Company:
 
 The voice of rejoicing and salvation is in the tents of the righteous.
-
-p. 70
-
-p. 71 p. 72
 
 Leader:
 
@@ -639,8 +622,6 @@ Leader:
 
 Blessed be he that cometh in the name of the Lord;
 
-p. 73 p. 74
-
 Company:
 
 We bless you out of the house of the Lord.
@@ -676,8 +657,6 @@ All read in unison:
 
 May God bless the whole house of Israel with freedom, and keep us safe from danger everywhere. Amen.
 
-p. 79
-
 May God cause the light of His countenance to shine upon all men, and dispel the darkness of ignorance and of prejudice. May He be gracious unto us.
 
 Amen.
@@ -692,7 +671,7 @@ BORUCH ATTO ADONOI ELOHENU MELECH HO‘OLOM BORE P’RI HAGGOFEN.
 
 Praised art Thou, O Lord our God, King of the universe, who createst the fruit of the vine.
 
-Drink the fourth cup of wine.
+**Drink the fourth cup of wine.**
 
 ## A Madrigal of Numbers ##
 
@@ -716,8 +695,6 @@ Who knows Four?
 
 I know Four: Four Mothers of Israel; Three Patriarchs; Two Tables of the Covenant; One God of the World.
 
-p. 87 p. 88
-
 Who knows Five?
 
 I know Five: Five Books of Moses; Four Mothers of Israel; Three Patriarchs; Two Tables of the Covenant; One God of the World.
@@ -737,8 +714,6 @@ I know Eight: Eight Lights of Ḥanukkah; Seven Days of the Week; Six Days of Cr
 Who knows Nine?
 
 I know Nine: Nine Festivals *; Eight Lights of
-
-p. 89 p. 90
 
 [paragraph continues] Ḥanukkah; Seven Days of the Week; Six Days of Creation; Five Books of Moses; Four Mothers of Israel; Three Patriarchs; Two Tables of the Covenant; One God of the World.
 
@@ -766,135 +741,99 @@ N.B. 88:* The nine Jewish festivals are: 1. Pesaḥ (Passover), 2. Shabuoth (Fea
 
 Allegorical meanings have been sought in the Ḥad Gadyo, on the supposition that it illustrates the working of Divine justice in the history of mankind. In reality, it is a rhyme for children, to keep their interest to the end of the Seder. As in the preceding number so in this one, grown people become children. The company reads in unison (not racing as in "Who Knows One" but) with regular rhythm, as to the beat of music; or sings it to one of the following musical settings.
 
+An only kid! An only kid,  
+My father bought  
+For two zuzim *.  
+An only kid! An only kid!  
 	
+Then came the cat  
+And ate the kid  
+My father bought For two zuzim.  
+An only kid! An only kid!  
 
-An only kid! An only kid,
-My father bought
-For two zuzim *.
+Then came the dog  
+And bit the cat  
+That ate the kid  
+My father bought  
+For two zuzim.  
+An only kid! An only kid!  
+
+Then came the stick  
+And beat the dog  
+That bit the cat  
+That ate the kid  
+My father bought For two zuzim.  
+An only kid! An only kid!  
+
+Then came the fire  
+And burned the stick  
+That beat the dog  
+That bit the cat  
+That ate the kid  
+My father bought  
+For two zuzim.  
+An only kid! An only kid!  
+
+Then came the water  
+And quenched the fire  
+That burned the stick  
+That beat the dog  
+That bit the cat  
+That ate the kid  
+My father bought For two zuzim.  
+An only kid! An only kid!  
+
+Then came the ox  
+And drank the water  
+That quenched the fire  
+That burned the stick  
+That beat the dog  
+That bit the cat  
+That ate the kid  
+My father bought  
+For two zuzim.  
+An only kid! An only kid!  
+
+Then came the butcher  
+And killed the ox  
+That drank the water  
+That quenched the fire  
+That burned the stick  
+That beat the dog  
+That bit the cat  
+That ate the kid  
+My father bought  
+For two zuzim.  
+An only kid! An only kid!  
+
+Then came the angel of death  
+And slew the butcher  
+That killed the ox  
+That drank the water  
+That quenched the fire  
+That burned the stick  
+That beat the dog  
+That bit the cat  
+That ate the kid  
+My father bought  
+For two zuzim.  
+An only kid! An only kid!  
+
+Then came the Holy One, blest be He!  
+And destroyed the angel of death  
+That slew the butcher  
+That killed the ox  
+That drank the water  
+That quenched the fire  
+That burned the stick  
+That beat the dog  
+That bit the cat  
+That ate the kid  
+My father bought  
+For two zuzim.  
 An only kid! An only kid!
 
- 
-
-	
-
-2. Then came the cat
-And ate the kid
-My father bought For two zuzim.
-An only kid! An only kid!
-
- 
-
-	
-
-3. Then came the dog
-And bit the cat
-That ate the kid
-My father bought
-For two zuzim.
-An only kid! An only kid! p. 95 p. 96
-
- 
-
-	
-
-4. Then came the stick
-And beat the dog
-That bit the cat
-That ate the kid
-My father bought For two zuzim.
-An only kid! An only kid!
-
- 
-
-	
-
-5. Then came the fire
-And burned the stick
-That beat the dog
-That bit the cat
-That ate the kid
-My father bought
-For two zuzim.
-An only kid! An only kid!
-
- 
-
-	
-
-6. Then came the water
-And quenched the fire
-That burned the stick
-That beat the dog
-That bit the cat
-That ate the kid
-My father bought For two zuzim.
-An only kid! An only kid! p. 97 p. 98
-
- 
-
-	
-
-7. Then came the ox
-And drank the water
-That quenched the fire
-That burned the stick
-That beat the dog
-That bit the cat
-That ate the kid
-My father bought
-For two zuzim.
-An only kid! An only kid!
-
- 
-
-	
-
-8. Then came the butcher
-And killed the ox
-That drank the water
-That quenched the fire
-That burned the stick
-That beat the dog
-That bit the cat
-That ate the kid
-My father bought
-For two zuzim.
-An only kid! An only kid!
-
- 
-
-	
-
-9 Then came the angel of death
-And slew the butcher
-That killed the ox p. 99 p. 100
-That drank the water
-That quenched the fire
-That burned the stick
-That beat the dog
-That bit the cat
-That ate the kid
-My father bought
-For two zuzim.
-An only kid! An only kid!
-
-	
-
-10. Then came the Holy One, blest be He!
-And destroyed the angel of death
-That slew the butcher
-That killed the ox
-That drank the water
-That quenched the fire
-That burned the stick
-That beat the dog
-That bit the cat
-That ate the kid
-My father bought
-For two zuzim.
-An only kid! An only kid!
-
-## Vay’hi Baḥatzi Halay'loh
+## Vay’hi Baḥatzi Halay'loh ##
 
 "and it came to pass at midnight."
 
@@ -983,41 +922,27 @@ And Thy light drive gloom away,
 History of the Passover
 
 THE PASSING GENERATIONS
-THE PASSING GENERATIONS
 
 AS THE rocks of granite yield to the trained eye of the scientist the secret of their formation, so human institutions, properly examined, present records of growth. Such a story of development, in response to changing social conditions, is displayed by the feast of the Passover.
+
 A. THE FESTIVAL OF THE SHEPHERDS.
 
 Its name ḤAG HAPPESAḤ harks back to the misty dawn of history. Long before the Exodus, the pastoral tribes of Israel celebrated this festival of the shepherds. As among other pastoral tribes, so among our forefathers, the joyous springtime, with its rich manifestation of fertility through the offspring of the flocks and herds, called forth special festivities. Moses pleaded with Pharaoh in behalf of the Israelites: "Let us go, we pray thee, three days journey in the wilderness, and sacrifice unto the Lord our God; lest He fall upon us with pestilence, or with the sword". * When they were refused, the Israelite families offered the Pesaḥ sacrifices in their homes in Egypt.
 
-The exact meaning of the name given to this festival and the nature of its ceremonies are matters of conjecture. Its celebration in the early spring, was associated
-
-p. 126
-
-with the sacrifice of the firstlings of the flocks and herds. The modified ordinance regarding its observance in Egypt, as given in Exodus XII, reads: "In the tenth day of this month they shall take to them every man a lamb, according to their fathers’ houses, a lamb for a household; and if the household be too little for a lamb, then shall he and his neighbor next unto his house take one according to the number of the souls; according to every man's eating ye shall make your count for the lamb. Your lamb shall be without blemish, a male of the first year; ye shall take it from the sheep, or from the goats; and ye shall keep it until the fourteenth day of the same month; and the whole assembly of the congregation of Israel shall kill it at dusk. And they shall take of the blood, and put it on the two side-posts and on the lintel, upon the house wherein they shall eat it. And they shall eat the flesh in that night, roast with fire, and unleavened bread; with bitter herbs they shall eat it. Eat not of it raw, nor sodden at all with water, but roast with fire; its head with its legs and with the inwards thereof. And ye shall let nothing of it remain until the morning; but that which remaineth of it until the morning ye shall burn with fire. And thus shall ye eat it: with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste—it is the Lord's passover." *
+The exact meaning of the name given to this festival and the nature of its ceremonies are matters of conjecture. Its celebration in the early spring, was associated with the sacrifice of the firstlings of the flocks and herds. The modified ordinance regarding its observance in Egypt, as given in Exodus XII, reads: "In the tenth day of this month they shall take to them every man a lamb, according to their fathers’ houses, a lamb for a household; and if the household be too little for a lamb, then shall he and his neighbor next unto his house take one according to the number of the souls; according to every man's eating ye shall make your count for the lamb. Your lamb shall be without blemish, a male of the first year; ye shall take it from the sheep, or from the goats; and ye shall keep it until the fourteenth day of the same month; and the whole assembly of the congregation of Israel shall kill it at dusk. And they shall take of the blood, and put it on the two side-posts and on the lintel, upon the house wherein they shall eat it. And they shall eat the flesh in that night, roast with fire, and unleavened bread; with bitter herbs they shall eat it. Eat not of it raw, nor sodden at all with water, but roast with fire; its head with its legs and with the inwards thereof. And ye shall let nothing of it remain until the morning; but that which remaineth of it until the morning ye shall burn with fire. And thus shall ye eat it: with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste—it is the Lord's passover." *
 
 Only Israelites and initiated strangers could participate in the Passover. Through the partaking of the sacrificial meat, they sought to strengthen their union with one another and with God, and by means of consecrating their dwellings with the blood of the sacrifice, they hoped to ward off every harm and danger.
 
-The departure of the Israelites from Egypt during
+The departure of the Israelites from Egypt during the spring festival vested the ancient rite with new historical significance. The name Pesaḥ assumed the meaning of "passing over," of sparing and delivering, and its observance came to be interpreted as a memorial of God's appearance as the avenger of Israel's wrongs: The blood upon the doorposts and lintels was construed to have been a sign upon the homes of the Israelites to distinguish them from those of the Egyptians. Tradition described it as "the sacrifice of the Lord's passover, for that He passed over the houses of the children of Israel in Egypt, when He smote the Egyptians, and delivered our houses". *
 
-p. 127
-
-the spring festival vested the ancient rite with new historical significance. The name Pesaḥ assumed the meaning of "passing over," of sparing and delivering, and its observance came to be interpreted as a memorial of God's appearance as the avenger of Israel's wrongs: The blood upon the doorposts and lintels was construed to have been a sign upon the homes of the Israelites to distinguish them from those of the Egyptians. Tradition described it as "the sacrifice of the Lord's passover, for that He passed over the houses of the children of Israel in Egypt, when He smote the Egyptians, and delivered our houses". *
 B. THE FARMER'S SPRING FESTIVAL.
 
-With their entrance into Canaan, the shepherd tribes of Israel began to follow agricultural pursuits. Among the older settlers of the land they found the custom of offering to the deity, at the spring of the year, the first fruit of their early harvest. They not only adopted this idea that an offering of their first grain was due to God, but extended it also to the firstlings of their flocks and herds. Thus the Passover sacrifice, while retaining its ancient ceremonials, received the new meaning of being a tribute due to God from the fold. It was also combined with the feast of Matzahs or Unleavened Bread, the spring festival of the agricultural Canaanite community, observed in the month of Abib, before the beginning of the harvest season. The important feature of this celebration was the eating of matzos or cakes prepared of unleavened dough. As sacrificial food, it was to be free from leaven. ** "It is very probable", writes Dr. Julian Morgenstern, "that among the ancient Canaanites and the early
-
-p. 128
-
-agricultural Israelites, the custom existed of destroying the usually meager remains of the old crop before the new crop could be used or even harvested. And if this hypothesis be correct, we must see in the ceremonies of the destruction of all leaven, of the fasting before the Matzahs-festival and of the eating of the matzos themselves, the religious, sacramental rites by which the last remains of the old crop were destroyed as the necessary preparation for the cutting and eating of the new crop. All of the old crop was thus burned except just enough to prepare the matzos for the festival." *
+With their entrance into Canaan, the shepherd tribes of Israel began to follow agricultural pursuits. Among the older settlers of the land they found the custom of offering to the deity, at the spring of the year, the first fruit of their early harvest. They not only adopted this idea that an offering of their first grain was due to God, but extended it also to the firstlings of their flocks and herds. Thus the Passover sacrifice, while retaining its ancient ceremonials, received the new meaning of being a tribute due to God from the fold. It was also combined with the feast of Matzahs or Unleavened Bread, the spring festival of the agricultural Canaanite community, observed in the month of Abib, before the beginning of the harvest season. The important feature of this celebration was the eating of matzos or cakes prepared of unleavened dough. As sacrificial food, it was to be free from leaven. ** "It is very probable", writes Dr. Julian Morgenstern, "that among the ancient Canaanites and the early agricultural Israelites, the custom existed of destroying the usually meager remains of the old crop before the new crop could be used or even harvested. And if this hypothesis be correct, we must see in the ceremonies of the destruction of all leaven, of the fasting before the Matzahs-festival and of the eating of the matzos themselves, the religious, sacramental rites by which the last remains of the old crop were destroyed as the necessary preparation for the cutting and eating of the new crop. All of the old crop was thus burned except just enough to prepare the matzos for the festival." *
 
 The later law, as given in Leviticus XXIII:5ff, combines the pastoral and agricultural elements of the feast. It reads: "In the first month, on the fourteenth day of the month at dusk, is the Lord's pass-over. And on the fifteenth day of the same month is the feast of unleavened bread unto the Lord; seven days shall ye eat unleavened bread". On the second day of the feast, the barley harvest was ushered in by bringing a sheaf of the new crop unto the priest. "And he shall wave the sheaf before the Lord, to be accepted for you. . .And ye shall eat neither bread, nor parched corn, nor fresh ears, until this selfsame day, until ye have brought the offering of your God." From that day forty-nine days were counted, and the fiftieth was observed as Shabuoth (Feast of Weeks) or as Ḥag Habikkurim, the "feast of the first fruits". (In the orthodox synagogues the seven weeks between the first day of Pesaḥ and Shabuoth are still known as the season of S’firath Ho‘omer, of "counting the sheaf".)
 
-In the light of the association of the feast of Matzahs with that of Pesaḥ, the eating of the matzos was re-interpreted as a reminder of the hurried flight of the
+In the light of the association of the feast of Matzahs with that of Pesaḥ, the eating of the matzos was re-interpreted as a reminder of the hurried flight of the Israelites from Egypt. Exodus XII: 39 states: "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual".
 
-p. 129
-
-[paragraph continues] Israelites from Egypt. Exodus XII: 39 states: "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual".
 C. THE FEAST OF ISRAEL'S BIRTH.
 
 It was the tradition of the Exodus that vitalized the old Pesaḥ and Matzahs festivals, and welded them into a distinctly Jewish institution, rich in ethical and religious possibilities. The national consciousness lovingly dwelt upon the fact that:
@@ -1027,11 +952,7 @@ The house of Jacob from a people of strange language,
 Judah became His sanctuary,
 Israel His dominion." *
 
-The hour which marked the birth of Israel as a holy nation, eloquently demonstrated to the religious mind the love of God for Israel. Prophetic idealism transformed this belief into a powerful lever of spiritual progress. "Ye have seen what I did unto the Egyptians", resounded the voice of God, "and how I bore you on eagles’ wings, and brought you unto Myself. Now therefore, if ye will hearken unto My voice indeed and keep My covenant, then ye shall be Mine own treasure from among all peoples; for all the earth is Mine; and ye shall be unto Me a kingdom of priests, and a holy nation." ** The belief in God's choice of Israel, determined Israel's mission in the world. The high privilege imposed great responsibility.
-
-p. 130
-
-[paragraph continues] As the people chosen by God, in accordance with His plan of the universal salvation of mankind, Israel must keep faith with God and be "a covenant of the people" and "a light of the nations:
+The hour which marked the birth of Israel as a holy nation, eloquently demonstrated to the religious mind the love of God for Israel. Prophetic idealism transformed this belief into a powerful lever of spiritual progress. "Ye have seen what I did unto the Egyptians", resounded the voice of God, "and how I bore you on eagles’ wings, and brought you unto Myself. Now therefore, if ye will hearken unto My voice indeed and keep My covenant, then ye shall be Mine own treasure from among all peoples; for all the earth is Mine; and ye shall be unto Me a kingdom of priests, and a holy nation." ** The belief in God's choice of Israel, determined Israel's mission in the world. The high privilege imposed great responsibility. As the people chosen by God, in accordance with His plan of the universal salvation of mankind, Israel must keep faith with God and be "a covenant of the people" and "a light of the nations:
 
 To open the blind eyes,
 To bring out the prisoners from the dungeon,
@@ -1057,61 +978,35 @@ D. THE NATIONAL CELEBRATION.
 
 (1) The Passover During the Second Temple.
 
-As the feast of Israel's independence, the Passover
-
-p. 131
-
-steadily grew in the hearts of the people. It gained new power, when subsequent to the Deuteronomic reformation, under King Josiah (621 B.C.E.), the Passover sacrifices, like all other offerings, had to be brought to the national sanctuary at Jerusalem. During the entire period of the Second Temple the Passover celebration served as a strong influence in the unification of Israel. Josephus refers to the great alacrity with which the Jewish people celebrated the Passover, and states that on it "they are required to slay more sacrifices in number that at any other festival". He also points out that "an innumerable multitude came thither out of the country, nay, from beyond its limits also, in order to worship God". He estimates that one year, shortly before the fall of the Temple, the number of sacrifices reached 256,500, which, upon the allowance of ten to each sacrifice, together with the considerable number of foreigners and of Jews who were prevented from partaking of the Passover on account of bodily uncleanliness, * made the vast crowd that thronged the holy city upward of 2,700,200.
+As the feast of Israel's independence, the Passover steadily grew in the hearts of the people. It gained new power, when subsequent to the Deuteronomic reformation, under King Josiah (621 B.C.E.), the Passover sacrifices, like all other offerings, had to be brought to the national sanctuary at Jerusalem. During the entire period of the Second Temple the Passover celebration served as a strong influence in the unification of Israel. Josephus refers to the great alacrity with which the Jewish people celebrated the Passover, and states that on it "they are required to slay more sacrifices in number that at any other festival". He also points out that "an innumerable multitude came thither out of the country, nay, from beyond its limits also, in order to worship God". He estimates that one year, shortly before the fall of the Temple, the number of sacrifices reached 256,500, which, upon the allowance of ten to each sacrifice, together with the considerable number of foreigners and of Jews who were prevented from partaking of the Passover on account of bodily uncleanliness, * made the vast crowd that thronged the holy city upward of 2,700,200.
 
 (2) The Passover Sacrifice. **
 
-For many days before the Passover, the people would come from every village and hamlet to celebrate the feast of unleavened bread in Jerusalem. By the fourteenth of Nisan the houses were crowded with guests, the open spaces were dotted with tents and the streets filled with the joyous pilgrims. Beneath the merrymaking, ran an undercurrent of earnest haste, for the great feast was close at hand. The houses were being
-
-p. 132
-
-cleaned of leaven, and special ovens were being prepared for the roasting of the paschal lambs.
+For many days before the Passover, the people would come from every village and hamlet to celebrate the feast of unleavened bread in Jerusalem. By the fourteenth of Nisan the houses were crowded with guests, the open spaces were dotted with tents and the streets filled with the joyous pilgrims. Beneath the merrymaking, ran an undercurrent of earnest haste, for the great feast was close at hand. The houses were being cleaned of leaven, and special ovens were being prepared for the roasting of the paschal lambs.
 
 Frequently in the midst of their labors, the people would look up to the Temple mount, where on one of the Temple galleries lay two sacrificial loaves, which served as a signal to them. As long as the priests allowed these loaves to remain, leavened bread could still be kept in the houses. But soon one loaf was removed, and then immediately afterwards the second loaf was taken away. At that signal fires leaped up all over the city. The last leaven was being burnt. For seven days thereafter only unleavened bread would be found in all the habitations of Israel.
 
-Now the seventh hour of the day had passed and the regular daily offering had already been brought up. The time for the sacrifice of the paschal offering itself had come. Great throngs of people pressed against the gates of the Temple, each man leading his sacrificial lamb. Soon the gates were opened but only one-third of the throng was admitted. As they poured into the Temple courts, they beheld three rows of priests extending across the sacred precinct. The first and last rows carried silver basins, the intervening carried basins of gold. The first man carried his lamb to the altar where it was sacrificed. The blood was caught in one of the basins and handed from priest to priest, each one receiving the empty basin in return for the filled one. Thus with very little delay, all the sacrifices were completed. While these sacrifices were being performed, the Levites chanted aloud the Hallel Psalms, the people responding in unison. After the first group of pilgrims completed its sacrifices, the second group was admitted, and then the third. When all the sacrifices were over, the people went to their houses and proceeded to roast the paschal lamb and make all preparations
+Now the seventh hour of the day had passed and the regular daily offering had already been brought up. The time for the sacrifice of the paschal offering itself had come. Great throngs of people pressed against the gates of the Temple, each man leading his sacrificial lamb. Soon the gates were opened but only one-third of the throng was admitted. As they poured into the Temple courts, they beheld three rows of priests extending across the sacred precinct. The first and last rows carried silver basins, the intervening carried basins of gold. The first man carried his lamb to the altar where it was sacrificed. The blood was caught in one of the basins and handed from priest to priest, each one receiving the empty basin in return for the filled one. Thus with very little delay, all the sacrifices were completed. While these sacrifices were being performed, the Levites chanted aloud the Hallel Psalms, the people responding in unison. After the first group of pilgrims completed its sacrifices, the second group was admitted, and then the third. When all the sacrifices were over, the people went to their houses and proceeded to roast the paschal lamb and make all preparations for the great Seder service, which was to take place in every home that evening.
 
-p. 133
-
-for the great Seder service, which was to take place in every home that evening.
 E. THE FEAST OF FREEDOM.
 
 During the centuries of Roman oppression, when the Jewish people groaned under the crushing burden of the Caesars, even as did their forefathers in Egypt, the ancient Feast of Freedom was charged with new vitality. Its annual recurrence came like a summons to new life and to liberty, making each Israelite feel as if he personally had shared in the Exodus. This sentiment was fostered by the new ritual for the home which replaced the Passover sacrifice after the Temple and the altar had been destroyed. While the Seder service was commemorative of the sacrificial rites at the Temple (the roast bone representing the paschal lamb, and the egg the additional festive offerings, the Ḥagigah), it was essentially propagandist in nature. The recital of the story of the Exodus was calculated to awaken the national consciousness. It became a duty to tell the young and to rehearse to one another the tale of the deliverance from Egyptian bondage. To dwell at length on it was considered praiseworthy. During the Hadrianic persecution, we find Rabbi Akiba, the moving spirit in Bar Cochba's heroic struggle to regain the independence of the Jewish people, together with other leaders in Israel, at B’nai B’rak, absorbed in the story of the Exodus all night, looking to the fulfillment of the prophetic promise to Israel:
 
 As in the days of thy coming forth out of the land of Egypt
-Will I show unto him marvelous things. *
-
-p. 134
-
-Commemorating the deliverance from Egyptian bondage ("Pesaḥ Mitzrayim"), the Passover held out the promise of the future redemption from Roman bondage ("Pesaḥ L’osid"). Another belief, too, became current that God's anointed (the Messiah) would appear on the anniversary of Israel's liberation, to reestablish the fallen tabernacle of David. Several self-deluded men, under the spell of this belief, proclaimed themselves as the long expected Messiahs. Thus in all ages, the Passover proved to be a perennial source of hope. Celebrating it, the Jewish people defied their ever new Pharaohs and Caesars, declaring prayerfully: "This year we are slaves; next year may we be free men". To souls crushed with anguish the "Z’man Ḥerusenu—the season of our liberation" held out the promise of the coming day when all fetters of oppression would be broken, when the clouds of religious bigotry and racial prejudice and hatred would be dispelled by the dawning light of God's truth, and when Israel's dormant powers would awaken to new life and blossom forth in renewed glory.
+Will I show unto him marvelous things. * Commemorating the deliverance from Egyptian bondage ("Pesaḥ Mitzrayim"), the Passover held out the promise of the future redemption from Roman bondage ("Pesaḥ L’osid"). Another belief, too, became current that God's anointed (the Messiah) would appear on the anniversary of Israel's liberation, to reestablish the fallen tabernacle of David. Several self-deluded men, under the spell of this belief, proclaimed themselves as the long expected Messiahs. Thus in all ages, the Passover proved to be a perennial source of hope. Celebrating it, the Jewish people defied their ever new Pharaohs and Caesars, declaring prayerfully: "This year we are slaves; next year may we be free men". To souls crushed with anguish the "Z’man Ḥerusenu—the season of our liberation" held out the promise of the coming day when all fetters of oppression would be broken, when the clouds of religious bigotry and racial prejudice and hatred would be dispelled by the dawning light of God's truth, and when Israel's dormant powers would awaken to new life and blossom forth in renewed glory.
 THE ETHICAL SIGNIFICANCE OF THE PASSOVER.
 
-Israel's experience was unique from the first when it departed from Egypt. Again and again races have been subjugated, reduced to slavery or villenage; but does history know of another horde of slaves that recovered itself, regained freedom, reestablished its own civilization, its own government? It is eminently proper, therefore, that in the prophetic as well as the Rabbinic cycle of ideas the Exodus from Egypt should occupy a prominent place. Its importance had been recognized still earlier, in the code, the Torah. The most exalted moral statutes concerning the treatment of strangers are connected with the Exodus, and
-
-p. 135
-
-are, from a psychologic point of view, impressively inculcated by means of the reminder: "Ye know the heart of the stranger!" * It is remarkable how even the law of the Sabbath rest, at first sight unconnected with the story of Israel's slavery and redemption, is brought into relation with and illuminated by it. The fourth commandment in the second version of the Ten Commandments, in Deuteronomy, disregards the dogmatic reason attached to the first ("for in six days the Lord made" etc). ** It emphasizes the ethical motive, that the manservant and the maid-servant should be granted a day of rest, and employs the memory of the Egyptian experience to urge consideration for subordinates. This method, characteristic of the Bible and still more of the Rabbis, of establishing a connection between the most important moral laws and the history of Israel in Egypt, at the same time illustrates how nations should draw instruction from their fortunes.
+Israel's experience was unique from the first when it departed from Egypt. Again and again races have been subjugated, reduced to slavery or villenage; but does history know of another horde of slaves that recovered itself, regained freedom, reestablished its own civilization, its own government? It is eminently proper, therefore, that in the prophetic as well as the Rabbinic cycle of ideas the Exodus from Egypt should occupy a prominent place. Its importance had been recognized still earlier, in the code, the Torah. The most exalted moral statutes concerning the treatment of strangers are connected with the Exodus, and are, from a psychologic point of view, impressively inculcated by means of the reminder: "Ye know the heart of the stranger!" * It is remarkable how even the law of the Sabbath rest, at first sight unconnected with the story of Israel's slavery and redemption, is brought into relation with and illuminated by it. The fourth commandment in the second version of the Ten Commandments, in Deuteronomy, disregards the dogmatic reason attached to the first ("for in six days the Lord made" etc). ** It emphasizes the ethical motive, that the manservant and the maid-servant should be granted a day of rest, and employs the memory of the Egyptian experience to urge consideration for subordinates. This method, characteristic of the Bible and still more of the Rabbis, of establishing a connection between the most important moral laws and the history of Israel in Egypt, at the same time illustrates how nations should draw instruction from their fortunes.
 
 The Prophets and Psalmists employ the great historical event to give reality chiefly to the religious idea of God's providence and grace. The Rabbis, finally, deduce from it the two fundamental elements of man's ethical education: the notion of liberty and the notion of man's ethical task.
 
-Political and even civil freedom was lost. The Roman Pharaohs, if they did not exact labor, the more despotically exacted property and blood, and aimed at the annihilation of ideal possessions—the Law, its study, and its execution. Yet the notion of liberty, inner moral and spiritual liberty, cherished as a pure, exalted ideal, possible only under and through the Law, was associated with the memory of the redemption
-
-p. 136
-
-from Egyptian slavery, and this memory in turn was connected with symbolic practices accompanying every act, pleasure, and celebration.
+Political and even civil freedom was lost. The Roman Pharaohs, if they did not exact labor, the more despotically exacted property and blood, and aimed at the annihilation of ideal possessions—the Law, its study, and its execution. Yet the notion of liberty, inner moral and spiritual liberty, cherished as a pure, exalted ideal, possible only under and through the Law, was associated with the memory of the redemption from Egyptian slavery, and this memory in turn was connected with symbolic practices accompanying every act, pleasure, and celebration.
 
 Moritz Lazarus,
 The Ethics of Judaism, Part 1, p. 231-2 and 29.
 
 MOSES AND THE TABLES OF THE LAW
-Click to enlarge
-MOSES AND THE TABLES OF THE LAW
 
-p. 137
 Moses
 
 "How small Sinai appears when Moses stands upon it! This mountain is only the pedestal for the feet of the man whose head reaches up to the heavens, where he speaks with God."
@@ -1119,16 +1014,11 @@ Moses
 The artistic spirit was directed by Moses, "as by his Egyptian compatriots, to colossal and indestructible undertakings. He built human pyramids, carved human obelisks; he took a poor shepherd family and created a nation from it --a great eternal, holy people; a people of God, destined to outlive the centuries, and to serve as pattern to all other nations, even as a prototype to the whole of mankind. He created Israel," . . . a people that has "fought and suffered on every battlefield of human thought."
 
 Heinrich Heine
-
 _____________
 
 To lead into freedom a people long crushed by tyranny; to discipline and order such a mighty host; to harden them into fighting men, before whom warlike tribes quailed and walled cities went down; to repress discontent and jealousy and mutiny; to combat reactions and reversions; to turn the quick, fierce flame of enthusiasm to the service of a steady purpose, require some towering character—a character blending in highest expression the qualities of politician, patriot, philosopher, and statesman—the anion of the wisdom of the Egyptians with the unselfish devotion of the meekest of men.
 
-The striking differences between Egyptian and Hebrew polity are not of form but of essence. The tendency of the one is to subordination and oppression; of the other, to individual freedom. Strangest of recorded birth! From
-
-p. 138
-
-the strongest and most splendid despotism of antiquity comes the freest republic. From between the paws of the rock-hewn Sphinx rises the genius of human liberty, and the trumpets of the Exodus throb with the defiant proclamation of the rights of man. . . In the characteristics of the Mosaic institutions, as in the fragments of a Colossus, we may read the greatness of the mind whose impress they bear—of a mind in advance of its surroundings, in advance of its age; of one of those star souls that dwindle not with distance, but, glowing with the radiance of essential truth, hold their light while institutions and languages and creeds change and pass.
+The striking differences between Egyptian and Hebrew polity are not of form but of essence. The tendency of the one is to subordination and oppression; of the other, to individual freedom. Strangest of recorded birth! From the strongest and most splendid despotism of antiquity comes the freest republic. From between the paws of the rock-hewn Sphinx rises the genius of human liberty, and the trumpets of the Exodus throb with the defiant proclamation of the rights of man. . . In the characteristics of the Mosaic institutions, as in the fragments of a Colossus, we may read the greatness of the mind whose impress they bear—of a mind in advance of its surroundings, in advance of its age; of one of those star souls that dwindle not with distance, but, glowing with the radiance of essential truth, hold their light while institutions and languages and creeds change and pass.
 
 Leader and servant of men! Law-giver and benefactor! Toiler towards the Promised Land seen only by the eye of faith! Type of the high souls who in every age have given to earth its heroes and its martyrs, whose deeds are the precious possession of the race, whose memories are its sacred heritage! With whom among the founders of Empire shall we compare him?
 
@@ -1138,28 +1028,20 @@ Henry George, Lecture on Moses, 1884
 
 ## Prep for Passover
 
-Preparations for Passover
 A. TIME OF THE FEAST.
 
 Though the Bible calls for the observance of Passover for seven days, the changing conditions of Jewish life before the fall of Jerusalem (70 C.E.) produced an eighth day of the Feast. As the calendar was not yet established, the Sanhedrin, exercising its religious authority, proclaimed each New Moon ("Rosh Ḥodesh"), and thereby regulated the dates of the festivals. However, its decisions were not always conveyed to the distant Jewish settlements in time to celebrate the holy days at the right season. To obviate this difficulty, the Jewish communities, outside of Palestine, added an extra day to each festival. When a permanent calendar was finally framed by Hillel II, in 360 C. E., and the dates of the holy days were no longer in doubt, the Rabbis of Babylonia wished to drop the second day of festivals, but they were advised by the Palestinian authorities not to break an established custom. Reform Judaism, recognizing that this custom causes needless hardship to Jewish people, in commercial and industrial centers, abolished the second day of festivals. Accordingly reform Jews, following the biblical law, keep Passover seven days, beginning on the eve of the 15th and ending on the 21st of Nisan. The first and last days are holy days on which divine services are held in the synagogues. The intervening days, known as "Ḥol Hamoed" are half-holy days.
 
-p. 140
 B. MATZO-BAKING.
 
-With the cessation of the sacrificial cult the original distinction between the feast of Pesaḥ and that of Matzahs disappeared to all practical purposes. The prominent feature of the feast came to be the eating of matzo. "The eating of matzo during Passover, unlike the prohibition against eating ḥometz, is not imperative; it is a voluntary act (‘r’shus’). That is, a Jew may abstain from eating both ḥometz and matzo, except on the first eve, when the eating of matzo is obligatory (‘ḥovoh’)". Matzah may be made of flour of wheat, barley, spelt, oats, or rye. Special care must be exercised in kneading and baking to prevent the fermentation of the dough. "In the early centuries matzo-baking was done by the wife daily, for the household use. In the middle ages preparations were made to bake matzos thirty days before Passover, except the Matzah Sh’miroh ('observance Matzah', prepared with special care for use on the Passover eve by men of extreme piety), which was baked in the afternoon of the 14th of Nisan, at a time when the Passover lamb was formerly sacrificed. Still later, when the community had a communal oven, it was incumbent on the lord of the house to superintend the matzo-baking for his family. . . . About 1875 matzo-baking machinery was invented in England, and soon after introduced into America", where it became an important industry. To keep the matzo from rising and swelling in baking, it was perforated after being rolled into shape, by means of a 'reidel', or wheel provided with sharp teeth and attached to a handle. "The perforator, usually a youth, would run his reidel through the matzo in lines crossed at right angles and about one inch apart. The matzo-machine
+With the cessation of the sacrificial cult the original distinction between the feast of Pesaḥ and that of Matzahs disappeared to all practical purposes. The prominent feature of the feast came to be the eating of matzo. "The eating of matzo during Passover, unlike the prohibition against eating ḥometz, is not imperative; it is a voluntary act (‘r’shus’). That is, a Jew may abstain from eating both ḥometz and matzo, except on the first eve, when the eating of matzo is obligatory (‘ḥovoh’)". Matzah may be made of flour of wheat, barley, spelt, oats, or rye. Special care must be exercised in kneading and baking to prevent the fermentation of the dough. "In the early centuries matzo-baking was done by the wife daily, for the household use. In the middle ages preparations were made to bake matzos thirty days before Passover, except the Matzah Sh’miroh ('observance Matzah', prepared with special care for use on the Passover eve by men of extreme piety), which was baked in the afternoon of the 14th of Nisan, at a time when the Passover lamb was formerly sacrificed. Still later, when the community had a communal oven, it was incumbent on the lord of the house to superintend the matzo-baking for his family. . . . About 1875 matzo-baking machinery was invented in England, and soon after introduced into America", where it became an important industry. To keep the matzo from rising and swelling in baking, it was perforated after being rolled into shape, by means of a 'reidel', or wheel provided with sharp teeth and attached to a handle. "The perforator, usually a youth, would run his reidel through the matzo in lines crossed at right angles and about one inch apart. The matzo-machine has an automatic perforator that makes lines at intervals of a half inch." *
 
-p. 141
-
-has an automatic perforator that makes lines at intervals of a half inch." *
 C. REMOVING THE LEAVEN.
 
-While the law regarding unleavened bread is simple, the prohibitions of the use of leaven, or ḥometz, during the Pesaḥ week, grew exceedingly complex. Rabbinical law forbids not only the eating of leavened bread but also the derivation of any benefit from it. Every trace of leaven has to be removed before the feast sets in. Hence there arose the quaint ceremony of "b’dikas ḥometz—searching for leaven", still observed by orthodox Jews. On the eve of the 14th of Nisan, i.e. on the night before Passover eve, after the evening service, the head of the house deposits crumbs of bread in conspicuous places, on window sills or open shelves, and, taking a wooden spoon in one hand and a few feathers in the other, begins the naive "search for leaven". The children enjoy the privilege of following him with a lighted taper. Blessing God for the command of removing the leaven, he proceeds, in strict silence, to sweep the crumbs into the wooden spoon with the feathers. When the task is done, he makes this solemn declaration, in Aramaic: "All manner of leaven that is in my possession, which I have not seen or removed, shall be as naught, and accounted as the dust of the earth". He then ties the spoon, feathers and leaven in one bundle and deposits it in a safe place. The following morning, after breakfast, he proceeds to burn the bundle of ḥometz. This ceremony, known as "bi‘ur ḥometz—destruction of the leaven", is preceded by a declaration, similar to that
-
-p. 142
-
-made on the night before, disclaiming responsibility for any leaven that may still be found on the premises.
+While the law regarding unleavened bread is simple, the prohibitions of the use of leaven, or ḥometz, during the Pesaḥ week, grew exceedingly complex. Rabbinical law forbids not only the eating of leavened bread but also the derivation of any benefit from it. Every trace of leaven has to be removed before the feast sets in. Hence there arose the quaint ceremony of "b’dikas ḥometz—searching for leaven", still observed by orthodox Jews. On the eve of the 14th of Nisan, i.e. on the night before Passover eve, after the evening service, the head of the house deposits crumbs of bread in conspicuous places, on window sills or open shelves, and, taking a wooden spoon in one hand and a few feathers in the other, begins the naive "search for leaven". The children enjoy the privilege of following him with a lighted taper. Blessing God for the command of removing the leaven, he proceeds, in strict silence, to sweep the crumbs into the wooden spoon with the feathers. When the task is done, he makes this solemn declaration, in Aramaic: "All manner of leaven that is in my possession, which I have not seen or removed, shall be as naught, and accounted as the dust of the earth". He then ties the spoon, feathers and leaven in one bundle and deposits it in a safe place. The following morning, after breakfast, he proceeds to burn the bundle of ḥometz. This ceremony, known as "bi‘ur ḥometz—destruction of the leaven", is preceded by a declaration, similar to that made on the night before, disclaiming responsibility for any leaven that may still be found on the premises.
 
 The Jewish mystics read a higher meaning into this as into all other ceremonies. Regarding ḥometz as the symbol of sordidness and corruption, they beheld in the ceremony of its removal a summons to man to destroy the evil of his heart.
+
 D. "KASHERING" THE UTENSILS.
 
 It is also customary among orthodox Jews to put away, for the period of the feast, all dishes and kitchen utensils that are used for the ḥometz, and to replace them with new ones or with such as are especially kept for Pesaḥ. Some vessels are retained for the holiday after undergoing the process of "kashering", i.e. of being made fit for Passover use: glass-ware and porcelain are dipped into boiling water, and iron vessels are passed through fire and made hot.
