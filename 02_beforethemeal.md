@@ -237,7 +237,7 @@ Praised art Thou, O Lord our God, King of the universe, who hast created the fru
 
 **Drink the second cup of wine.**
 
-5. motzi and matzah‎
+## motzi and matzah‎
 
 **The upper Matzah is broken and distributed. All then read in unison:**
 
@@ -251,7 +251,7 @@ Praised art Thou, O Lord our God, King of the universe, who hast sanctified us t
 
 **Eat the Matzah.**
 
-6. bitter herbs and kharoset
+## bitter herbs and kharoset
 
 **Each person receives some bitter herbs and kharoses, which he places between two pieces of matzo. The leader then reads:**
 
@@ -265,11 +265,11 @@ Praised art Thou, O Lord our God, King of the universe, who hast sanctified us b
 
 **Eat the Moror.**
 
-7. shulkhan arukh
+## shulkhan arukh
 
-SUPPER IS SERVED.
+GET EATING
 
-8. afikoman
+## afikoman
 
 At the conclusion of the meal, the children are given an opportunity to find the Aphikomon. The reader redeems it and distributes pieces of it to all present.
 
