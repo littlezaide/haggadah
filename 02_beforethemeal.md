@@ -91,7 +91,7 @@ The sederboss breaks the middle Matzah, leaving one half on the Seder-dish, but 
 
 **The sederboss lifts the Matzahs and says:**
 
-This is the bread of affliction which our fathers ate in the land of Egypt. Let all who are hungry come and eat. Let all who are in want come and celebrate the Passover with us. May it be God's will to redeem us from all trouble and from all servitude. Next year at this season, may the whole house of Israel be free!
+Our ancestors in egypt ate this meager bread which is basically a big cracker, and not fluffy and doughy at all. Let all those hungry  come and celebrate the Passover with us. Let all those seeking fellowsihip come too. We're here, but next year we hope to be in Israel, truly free! (realistically, though, it feels pretty free here too!)
 
 **The sederboss replaces the dish upon the table.**
 
@@ -99,15 +99,15 @@ This is the bread of affliction which our fathers ate in the land of Egypt. Let 
 
 **The youngest person at the table asks:**
 
-WHY IS this night different from all other nights?
+How come tonight's different from all other nights?
 
-1. On all other nights, we eat either leavened or unleavened bread. Why, on this night, do we eat only unleavened bread?
+1. Normally, we don't limit how fluffy we make and eat our bread. How come tonight we eat only fluffless cracker-bread called Matzoh?
 
-2. On all other nights, we eat all kinds of herbs. Why, on this night, do we eat especially bitter herbs?
+2. Normally, we don't make deliberate decisions about the types of herbs and vegetables we eat based on historical events. How come tonight we eat especially bitter herbs?
 
-3. On all other nights, we do not dip herbs in any condiment. Why, on this night, do we dip them in salt water and ḥaroses?
+3. Normally, we don't dip herbs twice in any condiment. How come tonight we specifically dip them once in salt water and then later in ḥaroseth?
 
-4. On all other nights, we eat without special festivities. Why, on this night, do we hold this Seder service?
+4. Normally, we eat with whatever natural posture we please. Why, on this night, do we deliberately recline?
 
 **The sederboss answers:**
 
@@ -115,11 +115,11 @@ We celebrate tonight because Pharaoh enslaved us in Egypt, and the Lord delivere
 
 ## The Four Children ##
 
-The Torah explains the meaning of the seder's celebration through the "four children" archetypes (the torah uses "sons" but that's weird since daughters exist, so let's just go with children):
+The Torah explains the meaning of the seder's celebration through the "four children" archetypes (the torah uses "sons" but that's weird since daughters exist, so let's just go with children and alternate gender pronouns):
 
 First the wise child. She asks eagerly about all the different things and symbols. To her you say "we do this to remember how we bad things once were Jews we were slaves in Egypt, and to appreciate how that isn't the case anymore. 
 
-The wicked child mockingly asks "what do you get out of this?" He deliberately says "you"--not "we" and excludes himself from the table. Strangely, the Torah suggests that you turn on this child, ironically excluding him from the current group as punishment. Perhaps simply saying the same thing you told the wise child would suffice: "being slaves sucked, and we appreciate not being slaves."
+The wicked child boorishly and contemptuously asks "what do you get out of this?" He deliberately says "you"--not "we" and excludes himself from the table. Strangely, the Torah suggests that you turn his biting sarcasm right back at him, ironically excluding him from the current group by saying "I was saved from egypt" and not "WE were saved". This seems a bit childish and unnecessarily punishing, no?  Perhaps modern parenting ideals would advise setting an example by simply saying the same thing you told the wise child earlier: "being slaves sucked, and we appreciate not being slaves."
 
 The simple child indifferently asks: "What is this?". Here, it seems explaining to her in a similar and  perhaps simpler way will suffice: "Slavery bad; non-slavery good".
 
@@ -127,16 +127,29 @@ And for the child who doesn't even no how to ask, the Torah suggests telling him
 
 ## Oppression ##
 
-Oppression: a tale as old as time. It is something we as jews (and not just jews) have faced from tyrants for about 5778 years. Thankfully, we keep escaping it, procreating, and multiplying. 
+The answer to the wise child refers to oppression: a tale as old as time. It is something we as jews (and not just jews) have faced from tyrants for about 5778 years. Thankfully, we keep escaping it, procreating, and multiplying. 
 
-Today's Oppression story-du-jour is that involving the Egyptians. We lived there in small numbers, multiplied a bit, but one day the new Egyptian king was displeased by our presence, demanding they curb our growth. They tried and tried again and failed. So, they enslaved us. Still we prevailed as the Lord brought us out of there with help from Moses, Aaron, and Miriam. He commanded then that we observe Passover every year, passed on from generation to generation.
+Today's Oppression story-du-jour is that involving the Egyptians. We lived there in small numbers, multiplied a bit, but one day the new Egyptian king was displeased by our presence, demanding they curb our growth and eventually exterminate us. They tried and tried again and failed. So, they enslaved us. Still we prevailed and escaped out of there with help from Moses, Aaron, and Miriam. To celebrate, we observe Passover every year, passed on from generation to generation.
 
-**All read in unison:**
+## The Plagues ##
 
-Who is like unto Thee, O Lord, among the mighty?  
-Who is like unto Thee, glorious in holiness,  
-Fearful in praises, doing wonders?  
-The Lord shall reign for ever and ever.
+Much ink (and wine) has been spilled debating how many plagues were actually inflicted on the Egyptians. Rabbi Jose the Galilean thinks its about fifty plagues. Rabbi Eliezar thinks Jose really underestimated things, and actually it was like 200 plagues. Not to be outdone, Rabbi Akiba professed it was 250. Well, since centuries later we've pretty much settled on just ten plagues, it is safe to say they're either all wrong, or at least not very persuasive.
+
+Anyway, Rabbi Judah put together a little mnemonic using the plagues' initials to remember their order. For some reason, we spill drops for those too, probably just as a shout-out to Judah. They are as follows:
+1. DZACH; 2. ADASH; 3. Beh-AHAV.
+
+Let's unpack those initials and spill a drop for each individual plague:
+1. BLOOD | DAM
+2. FROGS | TZ-FAR-DEY-YA
+3. VERMIN | KEE-NEEM
+4. WILD BEASTS | A-ROV
+5. PESTILENCE | DEH-VER
+6. BOILS | SH'HEEN
+7. HAIL | BA-RAD
+8. LOCUSTS | AR-BEH
+9. DARKNESS | HO-SHECH
+10. SLAYING THE FIRST BORN | MA-KAT BEH-HO-ROHT
+
 
 ## Dayenu ##
 
@@ -144,33 +157,15 @@ Dayenu‎
 
 **The company repeats the refrain "*Dayenu*" which is equivalent to "It would have satisfied us".**
 
-How manifold are the favors which God has conferred upon us!
+How many favors has God has bestowed on us!
 
-HAD HE brought us out of Egypt, and not divided the sea for us, *Dayenu*!
+HAD HE brought us out of Egypt, and not inflicted plagues on the Egyptians? That would have been enough for us *Dayenu*!
 
-HAD HE divided the sea, and not permitted us to cross on dry land, *Dayenu*!
+HAD HE inflicted plagues on the Egyptians, and not destroyed their idols? That would have been enough for us *Dayenu*!
 
-HAD HE permitted us to cross the sea on dry land, and not sustained us for forty years in the desert, *Dayenu*!
+HAD HE given us the Sabbath, and not brought us to Mount Sinai? That would have been enoug for us *Dayenu*!
 
-HAD HE sustained us for forty years in the desert, and not fed us with manna, *Dayenu*!
-
-HAD HE fed us with manna, and not ordained the Sabbath, *Dayenu*!
-
-HAD HE ordained the Sabbath, and not brought us to Mount Sinai, *Dayenu*!
-
-HAD HE brought us to Mount Sinai, and not given us the Torah, *Dayenu*!
-
-HAD HE given us the Torah, and not led us into the Land of Israel, *Dayenu*!
-
-HAD HE led us into the Land of Israel, and not built for us the Temple, *Dayenu*!
-
-HAD HE built for us the Temple, and not sent us prophets of truth, *Dayenu*!
-
-HAD HE sent us prophets of truth, and not made us a holy people, *Dayenu*!
-
-All read in unison:
-
-How much more then are we to be grateful unto the Lord for the manifold favors which He has bestowed upon us! He brought us out of Egypt, divided the Red Sea for us, permitted us to cross on dry land, sustained us for forty years in the desert, fed us with manna, ordained the Sabbath, brought us to Mount Sinai, gave us the Torah, led us into the Land of Israel, built for us the Temple, sent unto us prophets of truth, and made us a holy people to perfect the world under the kingdom of the Almighty, in truth and in righteousness.
+HAD HE given us the Torah, and not brought us to Israel? That would have been enoug for us *Dayenu*!
 
 ## Symbols ##
 
