@@ -2,7 +2,7 @@
 
 ## setting the table ##
 
-On the table, in front of the person who conducts the service, place a large platter containing Seder symbols:
+On the table, in front of the "sederboss", place a large platter containing Seder symbols:
 
 1. Three matzos each of which is covered separately in the folds of a napkin or special cover. These are also taken to represent the three religious divisions of Israel: the "Cohanim" (priests), "Levi'im" (associate priests/musicians) and "Yisroel" (lay-Israelite).
 2. The roasted shank-bone (of a lamb).
@@ -61,7 +61,7 @@ May our home be consecrated, O God, by the light of Thy countenance, shining upo
 
 **On Sabbath eve begin here.**
 
-The master of the house lifts up the wine-cup and says:
+The sederboss of the house lifts up the wine-cup and says:
 
 LET US praise God and thank Him for all the blessings of the week that is gone; for life, health and strength; for home, love and friendship; for the discipline of our trials and temptations; for the happiness of our success and prosperity. Thou hast ennobled us, O God, by the blessings of work, and in love and grace sanctified us by the blessings of rest, through the commandment, "Six days shalt thou labor and do all thy work, but the seventh day is a Sabbath unto the Lord thy God".
 
@@ -93,7 +93,7 @@ The leader breaks the middle Matzah, leaving one half on the Seder-dish, and hid
 
 4. ‏מַגִּיר‎
 
-**The leader lifts up the Matzahs and says:**
+**The sederboss lifts the Matzahs and says:**
 
 Lo! This is the bread of affliction which our fathers ate in the land of Egypt. Let all who are hungry come and eat. Let all who are in want come and celebrate the Passover with us. May it be God's will to redeem us from all trouble and from all servitude. Next year at this season, may the whole house of Israel be free!
 
@@ -113,9 +113,9 @@ WHY IS this night different from all other nights?
 
 4. On all other nights, we eat without special festivities. Why, on this night, do we hold this Seder service?
 
-**The leader answers:**
+**The sederboss answers:**
 
-We celebrate to-night because we were Pharaoh's bondmen in Egypt, and the Lord our God delivered us with a mighty hand. Had not the Holy One, blessed be He, redeemed our fathers from Egypt, we, our children, and our children's children would have remained slaves. Therefore even if all of us were wise and well-versed in the Torah, it would still be our duty from year to year, to tell the story of the deliverance from Egypt. Indeed to dwell at length on it, is accounted praiseworthy.
+We celebrate tonight because Pharaoh enslaved us in Egypt, and Lord delivered us out of there. Had he not, we'd probably be still be slaves. So even if all of us were wise and well-versed in the Torah, it would still be our duty from year to year, to tell the story of the deliverance from Egypt. Indeed to dwell at length on it, is accounted praiseworthy.
 
 ## The Four Sons ##
 
