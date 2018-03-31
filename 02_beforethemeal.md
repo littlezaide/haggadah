@@ -169,50 +169,45 @@ HAD HE given us the Torah, and not brought us to Israel? That would have been en
 
 ## Symbols ##
 
-Should enemies again assail us, the remembrance of the exodus of our fathers from Egypt will never fail to inspire us with new courage, and the symbols of this festival will help to strengthen our faith in God, who redeems the oppressed.
+Symbols are great. They help us remember, and Rabban Gamaliel, a noted sage, declared: "Whoever does not well consider the meaning of these three symbols: Pesaḥ, Matzah and Moror, has not truly celebrated this Festival". Let's consider them, lest we disappoint Gamliel.
 
-Therefore, Rabban Gamaliel, a noted sage, declared: "Whoever does not well consider the meaning of these three symbols: Pesaḥ, Matzah and Moror, has not truly celebrated this Festival".
-
-### Pesakh ###
+### Pesakh - the sacrificial passover lamb ###
 
 **One of the company asks:**
 
-What is the meaning of Pesakh?
+First off: what is the meaning of Pesakh?
 
 **The sederboss lifts up the roasted shank-bone and answers:**
 
-Pesakh means the Paschal Lamb, and is symbolized by this shank-bone. It was eaten by our fathers while the Temple was in existence, as a memorial of God's favors, as it is said: "It is the sacrifice of the Lord's Passover, for that He passed over the houses of the children of Israel in Egypt, when He smote the Egyptians and delivered our houses". As God in the ancient "Watch-Night" passed over and spared the houses of Israel, so did He save us in all kinds of distress, and so may He always shield the afflicted, and for ever remove every trace of bondage from among the children of man.
+Pesakh refers to the sacrifical Lamb, and is symbolized by this shank-bone. Our ancestors ate them while the Temple was in existence, as  a sacrifice for Passover, since the Lord passed over the jewish houses when He smote the Egyptian first born. In so doing, the Lord saved us all kinds of distress, and so the sacrificial lamb has become symbolic of the hope that we always be shielded from affliction, and that every trace of slavery and oppression is forever extinguished from humanity.
 
-### Matzah ###
+### Matzah - the unleavened rushed crackerbread ###
 
 **One of the company asks:**
 
-What is the meaning of Matzah?
+Second: what is the meaning of Matzah?
 
 **The sederboss lifts up the Matzah and answers:**
 
-Matzah, called The Bread Of Affliction, was the hasty provision that our fathers made for their journey, as it is said: "And they baked unleavened cakes of the dough which they brought out of Egypt. There was not sufficient time to leaven it, for they were driven out of Egypt and could not tarry, neither had they prepared for themselves any provisions." The bread which of necessity they baked unleavened, thus became a symbol of divine help.
-MOROR
+Matzah, called "The Bread Of Affliction", is what resulted when we rushed out of Egypt. We couldn't dilly-dally, and we hadn't prepared any provisions earlier. We simply had to get outta there, and this was our bread of necessity which is symbolic of our exodus from egypt.
+
+### Moror - the bitter herbs ###
 
 **One of the company asks:**
 
-And what is the meaning of Moror?
+Third: what is the meaning of Moror?
 
 **The sederboss lifts up the bitter herbs and answers:**
 
-Moror means Bitter Herb. We eat it in order to recall that the lives of our ancestors were embittered by the Egyptians, as we read: 'And they made their lives bitter with hard labor in mortar and bricks and in all manner of field labor. Whatever task was imposed upon them, was executed with the utmost rigor." As we eat it in the midst of the festivities of this night, we rejoice in the heroic spirit which trials developed in our people. Instead of becoming embittered by them, they were sustained and strengthened.
+Moror means Bitter Herb. We eat it to recall that the Egyptians ancestors literally 'embittered' our ancestors' lives. Maror has become symbolic of our rejoicing in the jewish spirit, rejecting embitterment and instead being strengthened by the trials we've had to endure.
 
 ## The Night Before ##
 
-IN EVERY generation, each Jew should regard himself as though he too were brought out of Egypt. Not our fathers alone, but us also, did the Holy One redeem; for not alone in Egypt but in many other lands, have we groaned under the burden of affliction and suffered as victims of malice, ignorance and fanaticism. This very night which we, a happy generation, celebrate so calmly and safely and joyfully in our habitations was often turned into a night of anxiety and of suffering for our people in former times. Cruel mobs were ready to rush upon them and to destroy their homes and the fruit of their labors. But undauntedly they clung to their faith in the ultimate triumph of right and of freedom. Champions of God, they marched from one Egypt into another—driven in haste, their property a prey to the rapacious foe, with their bundles on their shoulders, and God in their hearts.
+IN EVERY generation, each Jew should regard herself as though she too were brought out of Egypt. And not just Egypt but in many other lands, have we moaned and groaned under the burden of affliction and suffered as victims of malice, ignorance and fanaticism. 
 
-Because God, "the Guardian of Israel, who sleepeth not nor slumbereth" revealed Himself on that Watch-night in Egypt and in all dark periods of our past, as the Redeemer of the enslaved, we keep this as a Watch-night for all the Children of Israel, dedicated to God our redeemer.
+Tonight, we celebrate so calmly and safely and joyfully as a happy generation, remembering nights of anxiety and our people's suffering in former times. Cruel mobs were ready to rush upon our ancestors, and to destroy their homes and the fruits of their labors. Undauntedly they clung to faith in the ultimate triumph of right and of freedom. Champions, they marched from one Egypt into another—driven hastily, their property a prey to the rapacious foe, with their bundles on their shoulders, and faith in their hearts.
 
-While enjoying the liberty of this land, let us strive to make secure also our spiritual freedom, that, as the delivered, we may become the deliverer, carrying out Israel's historic task of being the messenger of religion unto all mankind.
-
-**All read in unison:**
-
-So it is our duty to thank, praise and glorify God, who brought us and our forefathers from slavery unto freedom, from sorrow unto joy, from mourning unto festive gladness, from darkness unto light. Let us therefore proclaim His praise.
+While enjoying our liberty, let's strive secure ours and everyone's pysical, spiritual, and intellectual freedoms for all time.
 
 ## Blessings ##
 
@@ -264,6 +259,6 @@ SUPPER IS SERVED.
 
 Aphikoman.
 
-At the conclusion of the meal, the children are given an opportunity to find the Aphikomon. The reader redeems it and distributes pieces of it to all present.
+At the conclusion of the meal, the children are given an opportunity to find the Afikoman. The reader redeems it and distributes pieces of it to all present.
 
-After partaking of the Aphikoman, it is customary to eat nothing else.
+After partaking of the Afikoman, it is customary to eat nothing else.
