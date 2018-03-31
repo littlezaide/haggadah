@@ -4,24 +4,20 @@
 
 On the table, in front of the "sederboss", place a large platter containing Seder symbols:
 
-1. Three matzos each of which is covered separately in the folds of a napkin or special cover. These are also taken to represent the three religious divisions of Israel: the "Cohanim" (priests), "Levi'im" (associate priests/musicians) and "Yisroel" (lay-Israelite).
-2. The roasted shank-bone (of a lamb).
-3. A roasted egg.
+1. Ya got three matzos, each covered separately by a napkin or cute looking cover. These happen to represent the three religious divisions of Israel: the "Cohanim" (priests), "Levi'im" (associate priests/musicians) and "Yisroel" (lay-Israelite).
+2. Ya got a roasted shank-bone (of a lamb).
+3. Ya got a roasted egg.
 
-Also: a piece of horseradish, a bit of kharoset, and a spray of parsley.
+Also: a piece of horseradish, a bit of kharoset, and a sprig of parsley.
 
-Besides these, place on the table:
+Besides these, lay down some:
 
 1. bitter herbs (horseradish), cut into small pieces
 2. kharoset
 3. parsley
 4. salt water
 
-A cup of wine is placed at each plate, and a brimming goblet in the center of the table for the prophet Elijah.
-
-The meal served during the Seder follows the form of a banquet of olden times. Hence the reference, in the Hebrew texts of the Four Questions, to the custom of reclining on the left side—a position assumed by free men.
-
-The table is usually spread with the best of the family's china and silverware, and adorned with flowers, in keeping with the festive spirit.
+Put a cup of wine is placed at each plate, and a goblet in the center of the table for Elijah.
 
 ## Seder ##
 
@@ -43,7 +39,7 @@ The table is usually spread with the best of the family's china and silverware, 
 
 ## Lighting the Festival Lights ##
 
-To symbolize the joy which the festival brings into the Jewish home, the mistress kindles the lights and recites the following blessing:
+To symbolize the joy of passover, another sederboss (who may or may not be a woman though traditionally it was the woman but judaism can be kinda oppressive so how about there's just two sederbosses any either can do whatever) lights them candles and recites the following:
 
 *Baruch attah adonoi elohenu melech ha‘olom asher kid’shanu b’mitzvotav v’tzivanu l’hadlik ner shel (on sabbath add: shabbos v’shel) yom tov.*
 
@@ -81,7 +77,7 @@ Praised art Thou, O Lord our God, Ruler of the world, who hast created the fruit
 
 2. ‏כַּרְפַּס‎
 
-Some parsley, lettuce or watercress is distributed to all present who dip it in salt water or in vinegar, and before partaking of it **say in unison:**
+Some parsley, lettuce or watercress (YUM) is distributed to errybody, who's expected to dip it in saltwater or vinegar and eat it **say in unison:**
 
 *Baruch atto adonai elohenu melech ha‘olom bor-ay p’ri ha’adomo.*
 
@@ -89,15 +85,15 @@ Praised art Thou, O Lord our God, King of the universe, Creator of the fruit of 
 
 3. ‏יַֽחַץ‎
 
-The leader breaks the middle Matzah, leaving one half on the Seder-dish, and hiding the other half as the Aphikomon to be eaten at the end of the meal.
+The sederboss breaks the middle Matzah, leaving one half on the Seder-dish, but then hiding the other half as the Afikoman to be eaten at the end of the meal. GO LOOK FOR IT KIDS there's money in that tharr Afikoman!
 
 4. ‏מַגִּיר‎
 
 **The sederboss lifts the Matzahs and says:**
 
-Lo! This is the bread of affliction which our fathers ate in the land of Egypt. Let all who are hungry come and eat. Let all who are in want come and celebrate the Passover with us. May it be God's will to redeem us from all trouble and from all servitude. Next year at this season, may the whole house of Israel be free!
+This is the bread of affliction which our fathers ate in the land of Egypt. Let all who are hungry come and eat. Let all who are in want come and celebrate the Passover with us. May it be God's will to redeem us from all trouble and from all servitude. Next year at this season, may the whole house of Israel be free!
 
-**The leader replaces the dish upon the table.**
+**The sederboss replaces the dish upon the table.**
 
 ## The Four Questions ##
 
@@ -115,37 +111,31 @@ WHY IS this night different from all other nights?
 
 **The sederboss answers:**
 
-We celebrate tonight because Pharaoh enslaved us in Egypt, and Lord delivered us out of there. Had he not, we'd probably be still be slaves. So even if all of us were wise and well-versed in the Torah, it would still be our duty from year to year, to tell the story of the deliverance from Egypt. Indeed to dwell at length on it, is accounted praiseworthy.
+We celebrate tonight because Pharaoh enslaved us in Egypt, and the Lord delivered us out of there. Had he not, we'd probably be still be slaves. So even if all of us were wise and knew the Torah super well, it would still be our duty to tell the story of our deliverance from Egypt every year. As Martha Stewart once coined: "it's a good thing".
 
-## The Four Sons ##
+## The Four Children ##
 
-BY A fitting answer to the questions of each of the four types of the sons of Israel, does the Torah explain the meaning of this night's celebration.
+The Torah explains the meaning of the seder's celebration through the "four children" archetypes (the torah uses "sons" but that's weird since daughters exist, so let's just go with children):
 
-The wise son eager to learn asks earnestly: "What mean the testimonies and the statutes and the ordinances, which the Lord our God hath commanded us?" To him thou shalt say: "This service is held in order to worship the Lord our God, that it may be well with us all the days of our life".
+First the wise child. She asks eagerly about all the different things and symbols. To her you say "we do this to remember how we bad things once were Jews we were slaves in Egypt, and to appreciate how that isn't the case anymore. 
 
-The wicked son inquires in a mocking spirit: "What mean ye by this service?" As he says ye and not we, he excludes himself from the household of Israel. Therefore thou shouldst turn on him and say: "It is because of that which the Lord did for me when I came forth out of Egypt". For me and not for him, for had he been there, he would not have been found worthy of being redeemed.
+The wicked child mockingly asks "what do you get out of this?" He deliberately says "you"--not "we" and excludes himself from the table. Strangely, the Torah suggests that you turn on this child, ironically excluding him from the current group as punishment. Perhaps simply saying the same thing you told the wise child would suffice: "being slaves sucked, and we appreciate not being slaves."
 
-The simple son indifferently asks: "What is this?" To him thou shalt say: "By strength of hand the Lord brought us out of Egypt, out of the house of bondage".
+The simple child indifferently asks: "What is this?". Here, it seems explaining to her in a similar and  perhaps simpler way will suffice: "Slavery bad; non-slavery good".
 
-And for the son who is unable to inquire, thou shalt explain the whole story of the Passover; as it is said: "And thou shalt tell thy son in that day, saying 'It is because of that which the Lord did for me when I came forth out of Egypt'".
+And for the child who doesn't even no how to ask, the Torah suggests telling him the whole passover story (though perhaps the epic Charlton Heston movie will do) and then explain as you did with all your children that we celebrate passover to celebrate freedom from bondage.
 
 ## Oppression ##
 
-IT IS well for all of us whether young or old to consider how God's help has been our unfailing stay and support through ages of trial and persecution. Ever since He called our father Abraham from the bondage of idolatry to His service of truth, He has been our Guardian; for not in one country alone nor in one age have violent men risen up against us, but in every generation and in every land, tyrants have sought to destroy us; and the Holy One, blessed be He, has delivered us from their hands.
+Oppression: a tale as old as time. It is something we as jews (and not just jews) have faced from tyrants for about 5778 years. Thankfully, we keep escaping it, procreating, and multiplying. 
 
-The Torah tells us that when Jacob our father was a homeless wanderer, he went down into Egypt, and sojourned there, few in number. All the souls of his household were threescore and ten. And Joseph was already in Egypt; he was the governor over the land. And Joseph placed his father and his brethren, and gave them a possession, as Pharaoh had commanded. And Israel dwelt in the land of Goshen; and they got them possessions therein, and were fruitful, and multiplied exceedingly.
-
-And Joseph died, and all his brethren, and all that generation. Now there arose a new king over Egypt, who knew not Joseph. And he said unto his people: 'Behold, the people of the children of Israel are too many and too mighty for us; come, let us deal wisely with them, lest they multiply, and it come to pass, that when there befalleth us any war, they also join themselves unto our enemies, and fight against us, and get them up out of the land'. Therefore they set over them taskmasters to afflict them with burdens. And they built for Pharaoh store-cities, Pithom and Raamses. But the more the Egyptians afflicted them, the more the Israelites multiplied and the more they spread abroad.
-
-And the Egyptians dealt ill with us, and afflicted us, and laid upon us cruel bondage. And we cried unto the Lord, the God of our fathers, and the Lord heard our voice and saw our affliction and our toil and our oppression. And the Lord brought us forth out of Egypt, with a mighty hand and with an outstretched arm and with great terror and with signs and with wonders. He sent before us Moses and Aaron and Miriam. And He brought forth His people with joy, His chosen ones with singing. And He guided them in the wilderness, as a shepherd his flock.
-
-Therefore He commanded us to observe the Passover in its season, from year to year, that His law shall be in our mouths, and that we shall declare His might unto our children, His salvation to all generations.
+Today's Oppression story-du-jour is that involving the Egyptians. We lived there in small numbers, multiplied a bit, but one day the new Egyptian king was displeased by our presence, demanding they curb our growth. They tried and tried again and failed. So, they enslaved us. Still we prevailed as the Lord brought us out of there with help from Moses, Aaron, and Miriam. He commanded then that we observe Passover every year, passed on from generation to generation.
 
 **All read in unison:**
 
 Who is like unto Thee, O Lord, among the mighty?  
-  Who is like unto Thee, glorious in holiness,  
-  Fearful in praises, doing wonders?  
+Who is like unto Thee, glorious in holiness,  
+Fearful in praises, doing wonders?  
 The Lord shall reign for ever and ever.
 
 ## Dayenu ##
@@ -194,7 +184,7 @@ Therefore, Rabban Gamaliel, a noted sage, declared: "Whoever does not well consi
 
 What is the meaning of Pesakh?
 
-**The leader lifts up the roasted shank-bone and answers:**
+**The sederboss lifts up the roasted shank-bone and answers:**
 
 Pesakh means the Paschal Lamb, and is symbolized by this shank-bone. It was eaten by our fathers while the Temple was in existence, as a memorial of God's favors, as it is said: "It is the sacrifice of the Lord's Passover, for that He passed over the houses of the children of Israel in Egypt, when He smote the Egyptians and delivered our houses". As God in the ancient "Watch-Night" passed over and spared the houses of Israel, so did He save us in all kinds of distress, and so may He always shield the afflicted, and for ever remove every trace of bondage from among the children of man.
 
@@ -204,7 +194,7 @@ Pesakh means the Paschal Lamb, and is symbolized by this shank-bone. It was eate
 
 What is the meaning of Matzah?
 
-**The leader lifts up the Matzah and answers:**
+**The sederboss lifts up the Matzah and answers:**
 
 Matzah, called The Bread Of Affliction, was the hasty provision that our fathers made for their journey, as it is said: "And they baked unleavened cakes of the dough which they brought out of Egypt. There was not sufficient time to leaven it, for they were driven out of Egypt and could not tarry, neither had they prepared for themselves any provisions." The bread which of necessity they baked unleavened, thus became a symbol of divine help.
 MOROR
@@ -213,7 +203,7 @@ MOROR
 
 And what is the meaning of Moror?
 
-**The leader lifts up the bitter herbs and answers:**
+**The sederboss lifts up the bitter herbs and answers:**
 
 Moror means Bitter Herb. We eat it in order to recall that the lives of our ancestors were embittered by the Egyptians, as we read: 'And they made their lives bitter with hard labor in mortar and bricks and in all manner of field labor. Whatever task was imposed upon them, was executed with the utmost rigor." As we eat it in the midst of the festivities of this night, we rejoice in the heroic spirit which trials developed in our people. Instead of becoming embittered by them, they were sustained and strengthened.
 
@@ -259,7 +249,7 @@ Praised art Thou, O Lord our God, King of the universe, who hast sanctified us t
 
 6. ‏כּוֹרֵךְ מָרוֹר‎
 
-**Each person receives some bitter herbs and ḥaroses, which he places between two pieces of matzo. The leader then reads:**
+**Each person receives some bitter herbs and ḥaroses, which he places between two pieces of matzo. The sederboss then reads:**
 
 This was the practice of Hillel, at the time the Temple was still in existence. He combined the unleavened bread and the bitter herbs and ate them together, to carry out the injunction concerning the Passover sacrifice: "With unleavened bread and with bitter herbs, they shall eat it."
 
