@@ -39,17 +39,11 @@ Put a cup of wine is placed at each plate, and a goblet in the center of the tab
 
 ## Lighting the Festival Lights ##
 
-To symbolize the joy of passover, another sederboss (who may or may not be a woman though traditionally it was the woman but judaism can be kinda oppressive so how about there's just two sederbosses any either can do whatever) lights them candles and recites the following:
+To symbolize the joy of passover, another sederboss (who may or may not be a woman though traditionally it was the woman but judaism can be kinda oppressive so how about there's just two sederbosses any either can do whatever) lights the candles and recites the following:
 
 *Baruch attah adonoi elohenu melech ha‘olom asher kid’shanu b’mitzvotav v’tzivanu l’hadlik ner shel (on sabbath add: shabbos v’shel) yom tov.*
 
 *Baruch attah adonoi elohenu melech ho‘olom shehekhiyanu v’kiy’manu v’higianu lazman hazzeh.*
-
-Praised art Thou, O Lord our God, King of the universe, who hast sanctified us by Thy commandments, and hast commanded us to kindle the (on Sabbath add: Sabbath and) festival lights.
-
-Praised art Thou, O Lord our God, King of the universe, who hast kept us alive and sustained us and brought us to this season.
-
-May our home be consecrated, O God, by the light of Thy countenance, shining upon us in blessing, and bringing us peace!
 
 **Company:** Amen.
 
@@ -71,8 +65,6 @@ Praised art Thou, O Lord our God, King of the universe, who hast chosen us from 
 
 *Baruch attah adonoi elohenu melech ha‘olam bor-ay p’ri ha'gafen.*
 
-Praised art Thou, O Lord our God, Ruler of the world, who hast created the fruit of the vine.
-
 **Drink the first cup of wine.**
 
 2. ‏כַּרְפַּס‎
@@ -81,17 +73,15 @@ Some parsley, lettuce or watercress (YUM) is distributed to errybody, who's expe
 
 *Baruch atto adonai elohenu melech ha‘olom bor-ay p’ri ha’adomo.*
 
-Praised art Thou, O Lord our God, King of the universe, Creator of the fruit of the earth.
-
 3. ‏יַֽחַץ‎
 
-The sederboss breaks the middle Matzah, leaving one half on the Seder-dish, but then hiding the other half as the Afikoman to be eaten at the end of the meal. GO LOOK FOR IT KIDS there's money in that tharr Afikoman!
+The sederboss breaks the middle Matzah, leaving one half on the Seder-dish, but then hiding the other half as the Afikoman to be eaten at the end of the meal. (KEEP A KEEN EYE OUT FOR IT KIDS there's money in that tharr Afikoman!)
 
 4. ‏מַגִּיר‎
 
 **The sederboss lifts the Matzahs and says:**
 
-Our ancestors in egypt ate this meager bread which is basically a big cracker, and not fluffy and doughy at all. Let all those hungry  come and celebrate the Passover with us. Let all those seeking fellowsihip come too. We're here, but next year we hope to be in Israel, truly free! (realistically, though, it feels pretty free here too!)
+Our ancestors in egypt ate this meager bread which is basically a big cracker, and not fluffy and doughy at all. Let all those hungry and seeking fellowsihip come and hang out, eat, and celebrate Passover with us. We're here, but next year we hope to be in Israel, truly free! (realistically, though, it feels pretty free here too!)
 
 **The sederboss replaces the dish upon the table.**
 
@@ -111,7 +101,7 @@ How come tonight's different from all other nights?
 
 **The sederboss answers:**
 
-We celebrate tonight because Pharaoh enslaved us in Egypt, and the Lord delivered us out of there. Had he not, we'd probably be still be slaves. So even if all of us were wise and knew the Torah super well, it would still be our duty to tell the story of our deliverance from Egypt every year. As Martha Stewart once coined: "it's a good thing".
+We celebrate tonight because Pharaoh enslaved us in Egypt, and we were delivered out of that hot mess. Had we not been, we'd probably be still be slaves. So even if all of us were wise and knew our history super well, it would still be our duty to tell the story of our deliverance from Egypt every year. As Martha Stewart once coined: "it's a good thing".
 
 ## The Four Children ##
 
@@ -127,15 +117,16 @@ And for the child who doesn't even no how to ask, the Torah suggests telling him
 
 ## Oppression ##
 
-The answer to the wise child refers to oppression: a tale as old as time. It is something we as jews (and not just jews) have faced from tyrants for about 5778 years. Thankfully, we keep escaping it, procreating, and multiplying. 
+The answer to the wise child's question is found by referring first to oppression: a tale as old as time. It is something we as jews (and not just jews) have faced from tyrants for about 5778 years. Thankfully, we keep escaping it, procreating, and multiplying. 
 
-Today's Oppression story-du-jour is that involving the Egyptians. We lived there in small numbers, multiplied a bit, but one day the new Egyptian king was displeased by our presence, demanding they curb our growth and eventually exterminate us. They tried and tried again and failed. So, they enslaved us. Still we prevailed and escaped out of there with help from Moses, Aaron, and Miriam. To celebrate, we observe Passover every year, passed on from generation to generation.
+Today's Oppression story-du-jour is that oppression and bondage the Egyptians inflicted on us. We lived in Egypt in small numbers, multiplied a bit, and one day the new Egyptian king was displeased by our presence. The king demanded the non-jewish Egyptian people curb our growth and--they hoped--eventually exterminate us. They tried and tried again and failed. So, they enslaved us. Still we prevailed and escaped out of there with help from Moses, Aaron, and Miriam. To celebrate, we observe Passover every year, passed on from generation to generation.
 
 ## The Plagues ##
 
-Much ink (and wine) has been spilled debating how many plagues were actually inflicted on the Egyptians. Rabbi Jose the Galilean thinks its about fifty plagues. Rabbi Eliezar thinks Jose really underestimated things, and actually it was like 200 plagues. Not to be outdone, Rabbi Akiba professed it was 250. Well, since centuries later we've pretty much settled on just ten plagues, it is safe to say they're either all wrong, or at least not very persuasive.
+Much ink (and wine) has been spilled debating how many plagues were actually inflicted on the Egyptians. Rabbi Jose the Galilean thinks it was about fifty plagues. Rabbi Eliezar thinks Jose really underestimated things, and actually it was like 200 plagues. Not to be outdone, Rabbi Akiba professed it was a whopping 250 plagues. Their interpretations are all frankly pretty confusing. Whelp, since centuries later we've pretty much all settled on just ten plagues, it is safe to say they're either all wrong, or at least not very persuasive.
 
-Anyway, Rabbi Judah put together a little mnemonic using the plagues' initials to remember their order. For some reason, we spill drops for those too, probably just as a shout-out to Judah. They are as follows:
+Anyway, Rabbi Judah put together a fun little mnemonic using the plagues' initials to remember their order. For some reason, we spill drops for those too, probably just as a shout-out to Judah. They are as follows:
+
 1. DZACH; 2. ADASH; 3. Beh-AHAV.
 
 Let's unpack those initials and spill a drop for each individual plague:
@@ -150,10 +141,9 @@ Let's unpack those initials and spill a drop for each individual plague:
 9. DARKNESS | HO-SHECH
 10. SLAYING THE FIRST BORN | MA-KAT BEH-HO-ROHT
 
-
 ## Dayenu ##
 
-Dayenu‎
+Dayenu‎ (The abridged version!)
 
 **The company repeats the refrain "*Dayenu*" which is equivalent to "It would have satisfied us".**
 
@@ -169,7 +159,7 @@ HAD HE given us the Torah, and not brought us to Israel? That would have been en
 
 ## Symbols ##
 
-Symbols are great. They help us remember, and Rabban Gamaliel, a noted sage, declared: "Whoever does not well consider the meaning of these three symbols: Pesaḥ, Matzah and Moror, has not truly celebrated this Festival". Let's consider them, lest we disappoint Gamliel.
+Symbols are great. They help us remember, and Rabban Gamliel, a noted sage, declared: "Whoever does not well consider the meaning of these three symbols: Pesaḥ, Matzah and Moror, has not truly celebrated this Festival". Let's consider them, lest we disappoint Gamliel.
 
 ### Pesakh - the sacrificial passover lamb ###
 
@@ -179,7 +169,7 @@ First off: what is the meaning of Pesakh?
 
 **The sederboss lifts up the roasted shank-bone and answers:**
 
-Pesakh refers to the sacrifical Lamb, and is symbolized by this shank-bone. Our ancestors ate them while the Temple was in existence, as  a sacrifice for Passover, since the Lord passed over the jewish houses when He smote the Egyptian first born. In so doing, the Lord saved us all kinds of distress, and so the sacrificial lamb has become symbolic of the hope that we always be shielded from affliction, and that every trace of slavery and oppression is forever extinguished from humanity.
+Pesakh refers to the sacrifical Lamb, and is symbolized by this shank-bone. Our ancestors ate them while the Temple was in existence, as  a sacrifice for Passover, since  the jewish houses were passed over when all the Egyptian first born were smote. In so doing, the Lord saved us all kinds of distress, and so the sacrificial lamb has become symbolic of the hope that we always be shielded from affliction, and that every trace of slavery and oppression is always and forever extinguished from humanity.
 
 ### Matzah - the unleavened rushed crackerbread ###
 
@@ -207,7 +197,7 @@ IN EVERY generation, each Jew should regard herself as though she too were broug
 
 Tonight, we celebrate so calmly and safely and joyfully as a happy generation, remembering nights of anxiety and our people's suffering in former times. Cruel mobs were ready to rush upon our ancestors, and to destroy their homes and the fruits of their labors. Undauntedly they clung to faith in the ultimate triumph of right and of freedom. Champions, they marched from one Egypt into another—driven hastily, their property a prey to the rapacious foe, with their bundles on their shoulders, and faith in their hearts.
 
-While enjoying our liberty, let's strive secure ours and everyone's pysical, spiritual, and intellectual freedoms for all time.
+While enjoying our liberty, let's strive secure ours and everyone's physical, spiritual, and intellectual freedoms for all time.
 
 ## Blessings ##
 
