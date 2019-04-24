@@ -107,7 +107,7 @@ We celebrate tonight because Pharaoh enslaved us in Egypt, and we were delivered
 
 The Torah explains the meaning of the seder's celebration through the "four children" archetypes (the torah uses "sons" but that's weird since daughters exist, so let's just go with children and alternate gender pronouns):
 
-First the wise child. She asks eagerly about all the different things and symbols. To her you say "we do this to remember how we bad things once were Jews we were slaves in Egypt, and to appreciate how that isn't the case anymore. 
+First the wise child. She asks eagerly about all the different things and symbols. To her you say "we do this to remember how bad things once were for Jews, when we were slaves in Egypt, and to appreciate how that isn't the case anymore. 
 
 The wicked child boorishly and contemptuously asks "what do you get out of this?" He deliberately says "you"--not "we" and excludes himself from the table. Strangely, the Torah suggests that you turn his biting sarcasm right back at him, ironically excluding him from the current group by saying "I was saved from egypt" and not "WE were saved". This seems a bit childish and unnecessarily punishing, no?  Perhaps modern parenting ideals would advise setting an example by simply saying the same thing you told the wise child earlier: "being slaves sucked, and we appreciate not being slaves."
 
@@ -117,7 +117,7 @@ And for the child who doesn't even no how to ask, the Torah suggests telling him
 
 ## Oppression ##
 
-The answer to the wise child's question is found by referring first to oppression: a tale as old as time. It is something we as jews (and not just jews) have faced from tyrants for about 5778 years. Thankfully, we keep escaping it, procreating, and multiplying. 
+The answer to the wise child's question is found by referring first to oppression: a tale as old as time. It is something we as jews (and not just jews) have faced from tyrants for about 5779 years. Thankfully, we keep escaping it, procreating, and multiplying. 
 
 Today's Oppression story-du-jour is that oppression and bondage the Egyptians inflicted on us. We lived in Egypt in small numbers, multiplied a bit, and one day the new Egyptian king was displeased by our presence. The king demanded the non-jewish Egyptian people curb our growth and--they hoped--eventually exterminate us. They tried and tried again and failed. So, they enslaved us. Still we prevailed and escaped out of there with help from Moses, Aaron, and Miriam. To celebrate, we observe Passover every year, passed on from generation to generation.
 
@@ -228,6 +228,8 @@ Praised art Thou, O Lord our God, King of the universe, who hast sanctified us t
 **Eat the Matzah.**
 
 6. ‏כּוֹרֵךְ מָרוֹר‎
+
+**NOTE: what about green onion and kharoseth?!**
 
 **Each person receives some bitter herbs and ḥaroses, which he places between two pieces of matzo. The sederboss then reads:**
 
