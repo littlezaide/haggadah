@@ -8,16 +8,14 @@ On the table, in front of the "sederboss", place a large platter containing Sede
 2. Ya got a roasted shank-bone (of a lamb) or something that approximates it (honestly... no need to be picky this year).
 3. And ya got a roasted egg (how about just an egg?).
 
-Also: a piece of horseradish, a bit of kharoset (or how about just a Clif bar?), and a sprig of parsley (any herb. Lettuce? Cabbage? fine).
-
 Besides these, lay down some:
 
-1. bitter herbs (horseradish), cut into small pieces
-2. kharoset or whatever sweet fruit and nut thing you got
-3. parsley or something green. Anything green and leafy. 
+1. bitter herbs (horseradish)
+2. kharoset (or how about just a Clif bar?)
+3. parsley or something green. Any herb. Lettuce? Cabbage? fine.
 4. salt water
 
-Put a cup of wine is placed at each plate, and a goblet in the center of the table for Elijah.
+Put a cup of wine at each plate, and a goblet in the center of the table for Elijah.
 
 ## Seder ##
 
@@ -111,7 +109,7 @@ First, the wise child. She asks eagerly about all the different things and symbo
 
 The wicked child boorishly and contemptuously asks "what do you get out of this?" He deliberately says "you"--not "we" and excludes himself from the table. Strangely, the Torah suggests that you turn his biting sarcasm right back at him, ironically excluding him from the current group by saying "I was saved from egypt" and not "WE were saved". This seems a bit childish and unnecessarily punishing, no?  Perhaps modern parenting ideals would advise setting an example by simply saying the same thing you told the wise child earlier: "being slaves sucked, and we appreciate not being slaves and being free instead."
 
-The simple child indifferently asks: "What is this?". Here, it seems explaining to her in a similar and  perhaps simpler way will suffice: "Slavery bad; non-slavery good".
+The simple child indifferently asks: "What is this?". Here, it seems explaining to her in a similar and perhaps simpler way will suffice: "Slavery bad; non-slavery good".
 
 And for the child who doesn't even no how to ask, the Torah suggests telling him the whole passover story (though perhaps putting on the epic Charlton Heston Ten Commandments film will do) and then explain as you did with all your children that we celebrate passover to celebrate freedom from bondage.
 
@@ -119,11 +117,11 @@ And for the child who doesn't even no how to ask, the Torah suggests telling him
 
 The answer to the wise child's question is found by referring first to oppression: a tale as old as time. Oppression is something we as jews (but also not just jews) have faced from tyrants for about 5780 years. Thankfully, we keep escaping it, procreating, and multiplying. 
 
-Today's oppression story-du-jour is about the oppression and bondage the Egyptians inflicted on us. We lived in Egypt in small numbers, multiplied a bit, and one day the new Egyptian king was displeased by our presence. The king demanded the non-jewish Egyptian people curb our growth and--they hoped--eventually exterminate us. They tried and tried again and failed. So, they enslaved us. Still, we prevailed and escaped with help from Moses, Aaron, and Miriam. To celebrate, we observe Passover annually, passed on from generation to generation.
+Today's oppression story-du-jour is about the oppression and bondage the Egyptians inflicted on us. We lived in Egypt in small numbers, multiplied a bit, and one day the new Egyptian king was displeased by our presence. The king demanded the non-Jewish Egyptians curb our growth—and they hoped—eventually exterminate us. They tried and tried again and failed. So, they enslaved us. Still, we prevailed and escaped with help from Moses, Aaron, and Miriam. To celebrate, we observe Passover annually, passed on from generation to generation. 
 
 ## The Plagues ##
 
-Much ink (and wine) has been spilled debating how many plagues were actually inflicted on the Egyptians. Rabbi Jose the Galilean thinks it was about fifty plagues. Rabbi Eliezar thinks Jose really underestimated things, and actually it was around 200 plagues. Not to be outdone, Rabbi Akiba professed it was a whopping 250 plagues. Their interpretations are all frankly pretty confusing. As centuries later we've pretty much all settled on just ten plagues, it is safe to say they're either all wrong, or at least not very persuasive.
+Much ink (and wine) has been spilled debating how many plagues were actually inflicted on the Egyptians. Rabbi Jose \[pronounce awkwardly in a Spanish way all you want, it really is "Yo-SAY"\] the Galilean thinks it was about fifty plagues. Rabbi Eliezar thinks Jose really underestimated things, and actually it was around 200 plagues. Not to be outdone, Rabbi Akiba professed it was a whopping 250 plagues. Their interpretations are all frankly pretty confusing. As centuries later we've pretty much all settled on just ten plagues, it is safe to say they're either all wrong, or at least not very persuasive.
 
 Anyway, Rabbi Judah put together a fun little mnemonic using the plagues' initials to remember their order. For some reason, we spill drops for those too, probably as a shout-out to Judah. They are as follows:
 
@@ -189,7 +187,7 @@ Third: what is the meaning of Moror?
 
 **The sederboss lifts up the bitter herbs and answers:**
 
-Moror means Bitter Herb. We eat it to recall that the Egyptians ancestors literally "embittered" our ancestors' lives. Maror has become symbolic of our rejoicing in the jewish spirit, rejecting embitterment and instead being strengthened by the trials we've had to endure. Also, nothing cleans out the sinuses like a mountain of horseradish. Reject pollen and breathe in that delicious spring air!
+Moror means Bitter Herb. We eat it to recall that the Egyptians ancestors literally "embittered" our ancestors' lives. Maror has become symbolic of our rejoicing in the Jewish spirit, rejecting embitterment and instead being strengthened by the trials we've had to endure. Also, nothing cleans out the sinuses like a mountain of horseradish. Reject pollen and breathe in that delicious spring air!
 
 ## The Night Before ##
 
@@ -197,7 +195,7 @@ IN EVERY generation, each Jew should regard herself as though she too were broug
 
 Typically, we celebrate calmly, safely, and joyfully as a happy generation, remembering nights of anxiety and our people's suffering in former times. Cruel mobs were ready to rush upon our ancestors and destroy their homes and the fruits of their labors. Undauntedly, jews clung to faith in the ultimate triumph of right and of freedom. Champions, they marched from one Egypt into another—driven hastily, their property a prey to the rapacious foe, with their bundles on their shoulders, and faith in their hearts. 
 
-Tonight, however, provides a germane example. While no human mobs are creepin outside, we can relate more than previous seders to our ancesters as we feel unsafe and fearful of the hazards beyond our doors, of threats to our well-being and economic security and those of our families and loved ones. And yet, despite our physical limitations, we continue to enjoy general physical liberty from bondage, and spiritual and intellectual freedom that our aancestors did not. Let's continue to strive to secure those freedoms perpetually for ourselves and every other group and culture.
+Tonight, however, provides a germane example. While no human mobs are creepin' outside, we can relate more than previous seders to our ancesters as we feel unsafe and fearful of the hazards beyond our doors, of threats to our well-being and economic security and those of our families and loved ones. And yet, despite our physical limitations, we continue to enjoy general physical liberty from bondage, and spiritual and intellectual freedom that our aancestors did not. Let's continue to strive to secure those freedoms perpetually for ourselves and every other group and culture.
 
 ## Blessings ##
 
@@ -249,7 +247,7 @@ SUPPER IS SERVED.
 
 8. ‏צָפוּן‎
 
-Aphikoman.
+Afikoman.
 
 At the conclusion of the meal, the children are given an opportunity to find the Afikoman. The reader redeems it and distributes pieces of it to all present.
 
