@@ -9,8 +9,8 @@ Instructions will be in square brackets: **[DON'T READ THIS ALOUD!]**
 On the table, in front of the "sederboss", should be a large platter containing Seder symbols:
 
 1. Ya got three matzos (or if not, Saltines or some "unleavened thing that approximates matzoh"), each covered separately by a napkin or cute looking cover. These happen to represent the three religious divisions of Israel: the "Cohanim" (priests), "Levi'im" (associate priests/musicians) and "Yisroel" (lay-Israelite).
-2. Ya got a roasted shank-bone (of a lamb) or something that approximates it (honestly... no need to be picky this year).
-3. And ya got a roasted egg (how about just an egg?).
+2. Ya got a roasted shank-bone (of a lamb) or something that approximates it.
+3. And ya got a roasted egg.
 
 Besides these, lay down some:
 
@@ -22,6 +22,8 @@ Besides these, lay down some:
 [Put a cup of wine at each plate, and a goblet in the center of the table for Elijah.]
 
 ## Seder ##
+
+All good meetings have agendas, and this one is no different. There are fifteen steps, and for the impatient among you most of these are pretty short.
 
 1. Kadesh: the recitation of Kiddush.
 2. Urchatz: washing the hands.
@@ -49,15 +51,15 @@ To symbolize the joy of passover, another sederboss (who may or may not be a wom
 
 **[EVERYONE]:** Amen.
 
-## Kadesh ##
+## 1. Kadesh ##
 
-**[SEDERBOSS, DO NOT READ THE FOLLOWING UNLESS IT IS SHABBOS!]**
+**[SEDERBOSS, READ ON SHABBOS ONLY!]**
 
 The sederboss of the house lifts up the wine-cup and says:
 
 LET US praise God and thank Him for all the blessings of the week that is gone; for life, health and strength; for home, love and friendship; for the discipline of our trials and temptations; for the happiness of our success and prosperity. Thou hast ennobled us, O God, by the blessings of work, and in love and grace sanctified us by the blessings of rest, through the commandment, "Six days shalt thou labor and do all thy work, but the seventh day is a Sabbath unto the Lord thy God".
 
-**[SEDERBOSS, DO NOT READ THE FOLLOWING IF IT IS SHABBOS!]**
+**[SEDERBOSS, READ ON NON-SHABBOS ONLY!]**
 
 With song and praise, and with the symbols of our feast, let us renew the memories of our past.
 
@@ -69,7 +71,11 @@ Praised art Thou, O Lord our God, King of the universe, who hast chosen us from 
 
 **[EVERYONE drink the first cup of wine.]**
 
-2. ‏כַּרְפַּס‎
+2. Urchatz 
+
+Wash your hands bit do not say the brakha. 
+
+3. ‏כַּרְפַּס‎ / Karpas
 
 Some parsley, lettuce or whatever you want frankly (YUM) is distributed to errybody, who's expected to dip it in saltwater or vinegar and eat it. **[EVERYONE say in unison:]**
 
